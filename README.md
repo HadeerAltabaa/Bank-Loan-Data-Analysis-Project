@@ -128,6 +128,6 @@ Through this project, the following skills were developed:
 BSc Computing with Business – Faculty of Information Technology,
 Data Analytics & Business Intelligence
 
-*🔗**GitHub:** [Hadeer.Altabaa](https://github.com/HadeerAltabaa)
-*🔗**LinkedIn** [Hadeer Altabaa](https://www.linkedin.com/in/hadeeraltabaajuniorwebdeveloper)
+* 🔗**GitHub:** [Hadeer.Altabaa](https://github.com/HadeerAltabaa)
+* 🔗**LinkedIn** [Hadeer Altabaa](https://www.linkedin.com/in/hadeeraltabaajuniorwebdeveloper)
 
